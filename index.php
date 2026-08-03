@@ -1,12 +1,12 @@
 <?php
 $page_title = 'خانه';
-include 'includes/header.php';
+include 'components/header.php';
 ?>
 
-<?php include 'includes/hero.php'; ?>
+<?php include 'components/hero.php'; ?>
 
-<?php include 'includes/markets.php'; ?>
+<?php include 'components/markets.php'; ?>
 
-<?php include 'includes/features.php'; ?>
+<?php include 'components/features.php'; ?>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'components/footer.php'; ?>
