@@ -1,0 +1,69 @@
+/* ===========================================
+   استایل هدر سایت
+   =========================================== */
+
+.site-header {
+    background-color: var(--dark-card);
+    border-bottom: 1px solid var(--dark-border);
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.site-header .navbar-brand {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--secondary-color);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.site-header .navbar-brand i {
+    color: var(--secondary-color);
+}
+
+.site-header .nav-link {
+    color: var(--text-light) !important;
+    font-weight: 500;
+    margin: 0 8px;
+    transition: color 0.3s;
+}
+
+.site-header .nav-link:hover,
+.site-header .nav-link.active {
+    color: var(--secondary-color) !important;
+}
+
+.btn-login,
+.btn-register {
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s;
+    margin-right: 8px;
+}
+
+.btn-login {
+    background-color: transparent;
+    border: 1px solid var(--secondary-color);
+    color: var(--secondary-color);
+}
+
+.btn-login:hover {
+    background-color: var(--secondary-color);
+    color: #000;
+}
+
+.btn-register {
+    background-color: var(--secondary-color);
+    color: #000;
+}
+
+.btn-register:hover {
+    background-color: #ffb300;
+    color: #000;
+}
