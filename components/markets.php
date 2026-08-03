@@ -5,7 +5,7 @@
 
     <div class="markets-grid">
 
-        <!-- کارت بیت کوین -->
+        <!-- BTC CART -->
         <div class="market-card">
             <div class="market-card-header">
                 <img src="https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
@@ -41,7 +41,7 @@
             </a>
         </div>
 
-        <!-- کارت تتر -->
+        <!-- USDT CART -->
         <div class="market-card">
             <div class="market-card-header">
                 <img src="https://assets.coingecko.com/coins/images/325/large/Tether.png"
@@ -77,7 +77,7 @@
             </a>
         </div>
 
-        <!-- کارت ریال -->
+        <!-- IRR CAR -->
         <div class="market-card">
             <div class="market-card-header">
                 <div class="coin-logo rial-flag" aria-label="Rial">

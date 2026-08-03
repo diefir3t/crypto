@@ -1,11 +1,8 @@
-<?php
-// includes/footer.php
-?>
-<!-- ====== فوتر سایت ====== -->
+
 <footer class="site-footer">
     <div class="container">
         <div class="row">
-            <!-- درباره ما -->
+            <!-- about us -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <a class="navbar-brand" href="index.php">
                     <i class="fa-solid fa-bitcoin-sign"></i>
@@ -51,16 +48,16 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <h5 class="footer-title">تماس با ما</h5>
                 <ul class="footer-links">
-                    <li><i class="fa-solid fa-envelope"></i> support@cryptoex.ir</li>
-                    <li><i class="fa-solid fa-phone"></i> 021-12345678</li>
-                    <li><i class="fa-solid fa-location-dot"></i> تهران، خیابان آزادی</li>
+                    <li><i class="fa-solid fa-envelope"></i> cryptoex.ir</li>
+                    <li><i class="fa-solid fa-phone"></i> 051-36570000</li>
+                    <li><i class="fa-solid fa-location-dot"></i> مشهد ، بلوار هاشمیه ، هاشمیه 10 ، پلاک 12</li>
                 </ul>
             </div>
         </div>
 
-        <!-- کپی رایت -->
+        <!-- copy right -->
         <div class="footer-bottom">
-            <p class="mb-0">© 2026 تمامی حقوق این سایت محفوظ است. | طراحی شده برای پروژه دانشگاهی</p>
+            <p class="mb-0">--</p>
         </div>
     </div>
 </footer>
@@ -70,4 +67,5 @@
 <!-- اسکریپت اختصاصی -->
 <script src="js/main.js"></script>
 </body>
+
 </html>

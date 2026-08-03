@@ -1,4 +1,3 @@
-<!-- ====== بخش ویژگی‌ها ====== -->
 <div class="container features-section">
     <h2 class="section-title">چرا CryptoEx؟</h2>
     <p class="section-subtitle">ویژگی‌هایی که ما را از سایرین متمایز می‌کند</p>
