@@ -1,5 +1,3 @@
-# crypto-exchange site
-
 # Crypto Exchange
 
 ## Overview
